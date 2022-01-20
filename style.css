@@ -19,16 +19,16 @@ a {
 
 p
 {
-  font-size: 40px;
+  font-size: 60px;
 }
 
 .button{
-  font-size: 35px;
-  width: 30%;
+  font-size: 70px;
+  width: 40%;
   border-radius: 12%;
 }
 #geronimo {
-  margin-top: 15%;
+  margin-top: 12%;
 }
 
 .navbar {
@@ -38,9 +38,9 @@ p
 
 .navbar a {
   float: center;
-  font-size: 16px;
+  font-size: 30px;
   color: white;
   text-align: center;
-  padding: 14px 40px;
+  padding: 15px 40px;
   text-decoration: none;
 }
