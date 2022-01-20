@@ -1,0 +1,46 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+body {
+background-color:rgb(15, 14, 12);
+text-align: center;
+text-size-adjust: 15%;
+color: snow;
+justify-content: center;
+align-items: center;
+}
+
+a {
+  color:snow;
+  font-size: 20px;
+}
+
+p
+{
+  font-size: 40px;
+}
+
+.button{
+  font-size: 35px;
+  width: 30%;
+  border-radius: 12%;
+}
+#geronimo {
+  margin-top: 15%;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.navbar a {
+  float: center;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 40px;
+  text-decoration: none;
+}
